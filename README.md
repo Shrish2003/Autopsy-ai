@@ -410,3 +410,9 @@ This project is licensed under the MIT License. (Refer to the repository file st
 * **React Flow** for the interactive DAG charts.
 * **Ollama** & the **Qwen Team** for local developer models.
 * **AMD** for the ROCm and Ryzen AI development toolkits.
+
+
+## Contributors
+
+- Chetan Dongre — Project Development
+- Shrish Deshmukh — GenAI / RAG Development
